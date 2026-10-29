@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Apple
   - Traps
+  - Enemies
   layers:
   - Default
   - TransparentFX
@@ -51,6 +52,9 @@ TagManager:
     locked: 0
   - name: Traps
     uniqueID: 3043248975
+    locked: 0
+  - name: Enemies
+    uniqueID: 1970639973
     locked: 0
   - name: UI
     uniqueID: 2589267433
